@@ -1,0 +1,12 @@
+.wrapper {
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+}
+
+.inner {
+width: 50%;
+height: 50%;
+background-color: chocolate;
+
+}
